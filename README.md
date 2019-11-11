@@ -19,13 +19,13 @@ npm install korean-logger
 ```js
 const klog = require('korean-logger')
 
-klog.log('text') // Result: [로그] text
-klog.info('text') // Result: [정보] text
-klog.success('text') // Result: [성공] text
-klog.alert('text') // Result: [알림] text
-klog.warn('text') // Result: [경고] text
-klog.error('text') // Result: [오류] text
-klog.chat('text') // Result: [채팅] text
-klog.status('text') // Result: [상태] text
-klog.debug('text') // Result: [디버그] text
+klog.log('text') // Result: [시간] [로그] text
+klog.info('text') // Result: [시간] [정보] text
+klog.success('text') // Result: [시간] [성공] text
+klog.alert('text') // Result: [시간] [알림] text
+klog.warn('text') // Result: [시간] [경고] text
+klog.error('text') // Result: [시간] [오류] text
+klog.chat('text') // Result: [시간] [채팅] text
+klog.status('text') // Result: [시간] [상태] text
+klog.debug('text') // Result: [시간] [디버그] text
 ```
