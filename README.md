@@ -2,7 +2,7 @@
 > Korean Logger Modules
 
 ### Author
-- khjkr <khj@kkutu.co> (KHJKR#9298)
+- khjkr (<khj@zeonplex.co.kr>) (KHJ#5137)
 
 ### License
 - MIT
